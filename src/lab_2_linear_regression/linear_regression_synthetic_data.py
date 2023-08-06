@@ -7,7 +7,6 @@ from sklearn.metrics import (
     r2_score,
     mean_squared_error
 )
-
 from lab_1_python.create_synthetic_data import SyntheticData
 
 class LinearRegression() :
@@ -89,8 +88,8 @@ def main() :
     # Visualization on test set       
     plt.scatter( X_test, Y_test, color = 'blue' )      
     plt.plot( X_test, Y_pred, color = 'orange' )      
-    plt.title( 'Salary vs Experience' )      
-    plt.xlabel( 'Years of Experience' )      
-    plt.ylabel( 'Salary' )
+    plt.title( 'Synthetic Data' )      
+    plt.xlabel( 'Feature 1' )      
+    plt.ylabel( 'Y' )
       
     plt.show()
