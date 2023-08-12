@@ -17,4 +17,5 @@ dependencies:
   # - tensorflow-metal for Mac M1/M2
   - tensorflow-datasets
   - tensorflow_addons
+  - seaborn
   
