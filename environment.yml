@@ -15,4 +15,6 @@ dependencies:
   - tensorflow
   # - tensorflow-macos for Mac M1/M2 (run this before : conda install -c apple tensorflow-deps)
   # - tensorflow-metal for Mac M1/M2
+  - tensorflow-datasets
+  - tensorflow_addons
   
