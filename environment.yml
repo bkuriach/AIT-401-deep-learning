@@ -7,8 +7,8 @@ dependencies:
   - pandas
   - matplotlib
   - jupyterlab
-  - jupyter==1.0.0
-  - scikit-learn==1.3.0
+  - jupyter
+  - scikit-learn
   - torch
   - torchvision
   - torchaudio
