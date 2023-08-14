@@ -1,5 +1,5 @@
 # AIT-401 & AIL 411
-Materials for "Deep Learning" Course and Lab under APJ Abdul Kalam Technological University (KTU)
+Materials for "Deep Learning" Course and Lab under KTU (State government university in Kerala, India)
 
 ### (Adjunct) Faculty: Binil Kuriachan
 
