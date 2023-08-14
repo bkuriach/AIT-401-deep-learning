@@ -18,4 +18,6 @@ dependencies:
   - tensorflow-datasets
   - tensorflow_addons
   - seaborn
+  - opencv-python
+  - scikit-image
   
